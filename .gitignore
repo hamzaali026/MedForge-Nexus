@@ -1,0 +1,13 @@
+SynthEHR/obj/
+SynthEHR/bin/
+*.user
+SynthEHR/.vs/
+.vs/
+Visual Studio 2017/
+SynthEHRTests/obj/
+*.vspx
+*.psess
+SynthEHRTests/bin/
+SynthEHR.Core/obj/
+SynthEHR.Core/bin/
+.idea/
